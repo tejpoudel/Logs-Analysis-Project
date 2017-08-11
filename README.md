@@ -20,6 +20,7 @@ Aim of this project is to print report based on data in database by using python
 - change directory to /vagrant/logs_analysis_project
 - use command psql -d news -f newsdata.sql or psql -d news to connect to the database
 - Create two database views for the reporting tool to work properly:
+
 	CREATE view creator as
 	  SELECT date_trunc('day', time) "day", count(status) as totals
 	  FROM log
