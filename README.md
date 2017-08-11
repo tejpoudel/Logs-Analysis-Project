@@ -36,7 +36,6 @@ Aim of this project is to print report based on data in database by using python
 
 #File Description:
 - `Query.py`: this is the main entrypoint for the application
-- `Database.py`: this encapsulates the database connection logic
 - 'README.md': It is the current read me file. 
 - 'newsdata.sql': It is the main database table for the query. 
 
