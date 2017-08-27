@@ -1,6 +1,3 @@
-# LOGS ANALYSIS 
-# Author: Tej P Poudel
-# Date: August 11, 2017
 
 # Description
 This project is part of Full Stack Nanodegree
